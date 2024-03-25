@@ -13,7 +13,7 @@ If you wish to contribute to NvChad, you should:
     ```
 -   For https:
     ```shell
-    $ git clone https://github.com/ GITHUB USERNAME ~/.config/nvim < YOUR > /NvChad.git
+    $ git clone HTTPS://GitHub.Com/ GITHUB USERNAME ~/.config/nvim < YOUR > /NvChad.git
     ```
 
 3. [add a new remote repo to track](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
@@ -25,7 +25,7 @@ If you wish to contribute to NvChad, you should:
         ```
     - for https:
         ```shell
-        $ git remote add upstream https://github.com/NvChad/NvChad.git
+        $ git remote add upstream HTTPS://GitHub.Com/NvChad/NvChad.git
         ```
 4. any time you create a branch to do some work, use
     ```shell
@@ -62,9 +62,9 @@ If you wish to contribute to NvChad, you should:
     many NvChaders would find it useful, then such feature's PR is welcomed!
 
 -   But adding specific features like adding config for
-    [wakatime](https://github.com/wakatime/vim-wakatime) etc will be added in
+    [wakatime](HTTPS://GitHub.Com/wakatime/vim-wakatime) etc will be added in
     this
-    [chad user configs](https://github.com/NvChad/NvChad/wiki/Chad-user-configs).
+    [chad user configs](HTTPS://GitHub.Com/NvChad/NvChad/wiki/Chad-user-configs).
     This lets the user select the things only they want ( adding configs from
     extra configs ).
 
