@@ -7,7 +7,7 @@
   <span> • </span>
        	<a href="https://nvchad.com/docs/contribute">Contribute</a>
   <span> • </span>
-	<a href="HTTPS://GitHub.Com/NvChad/NvChad#gift_heart-support">Support</a>
+	<a href="https://github.com/NvChad/NvChad#gift_heart-support">Support</a>
   <span> • </span>
         <a href="https://nvchad.com/docs/features">Features</a>
   <p></p>
@@ -15,11 +15,11 @@
 
 <div align="center">
  
-[![Neovim Minimum Version](HTTPS://IMG.Shields.IO/badge/Neovim-0.9.0-blueviolet.svg?style=flat-square&logo=Neovim&color=90E59A&logoColor=white)](HTTPS://GitHub.Com/neovim/neovim)
-[![GitHub Issues](HTTPS://IMG.Shields.IO/github/issues/NvChad/NvChad.svg?style=flat-square&label=Issues&color=d77982)](HTTPS://GitHub.Com/NvChad/NvChad/issues)
-[![Discord](HTTPS://IMG.Shields.IO/discord/869557815780470834?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/gADmkJb9Fb)
-[![Matrix](HTTPS://IMG.Shields.IO/badge/Matrix-40aa8b.svg?style=flat-square&logo=Matrix&logoColor=white)](https://matrix.to/#/#nvchad:matrix.org)
-[![Telegram](HTTPS://IMG.Shields.IO/badge/Telegram-blue.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DE_WM)
+[![Neovim Minimum Version](https://IMG.Shields.IO/badge/Neovim-0.9.0-blueviolet.svg?style=flat-square&logo=Neovim&color=90E59A&logoColor=white)](https://github.com/neovim/neovim)
+[![GitHub Issues](https://IMG.Shields.IO/github/issues/NvChad/NvChad.svg?style=flat-square&label=Issues&color=d77982)](https://github.com/NvChad/NvChad/issues)
+[![Discord](https://IMG.Shields.IO/discord/869557815780470834?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/gADmkJb9Fb)
+[![Matrix](https://IMG.Shields.IO/badge/Matrix-40aa8b.svg?style=flat-square&logo=Matrix&logoColor=white)](https://matrix.to/#/#nvchad:matrix.org)
+[![Telegram](https://IMG.Shields.IO/badge/Telegram-blue.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DE_WM)
 
   </div>
 
@@ -83,7 +83,7 @@ A fuzzy file finder, picker, sorter, previewer and much more:
 
 <h3> Our own statusline written from scratch  </h3>
 
-[NvChad UI](HTTPS://GitHub.Com/NvChad/ui)
+[NvChad UI](https://github.com/NvChad/ui)
 
 <kbd><img src="https://nvchad.com/features/statuslines.webp"></kbd>
 
@@ -103,36 +103,36 @@ A fuzzy file finder, picker, sorter, previewer and much more:
 ## Plugins list
 
 -   Many beautiful themes, theme toggler by our
-    [base46 plugin](HTTPS://GitHub.Com/NvChad/base46)
+    [base46 plugin](https://github.com/NvChad/base46)
 -   Inbuilt terminal toggling & management with
-    [Nvterm](HTTPS://GitHub.Com/NvChad/nvterm)
+    [Nvterm](https://github.com/NvChad/nvterm)
 -   Lightweight & performant ui plugin with
-    [NvChad UI](HTTPS://GitHub.Com/NvChad/ui) It provides statusline modules,
+    [NvChad UI](https://github.com/NvChad/ui) It provides statusline modules,
     tabufline ( tabs + buffer manager) , beautiful cheatsheets, NvChad updater,
     hide & unhide terminal buffers, theme switcher and much more!
 -   File navigation with
-    [nvim-tree.lua](HTTPS://GitHub.Com/kyazdani42/nvim-tree.lua)
+    [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
 -   Beautiful and configurable icons with
-    [nvim-web-devicons](HTTPS://GitHub.Com/kyazdani42/nvim-web-devicons)
+    [nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
 -   Git diffs and more with
-    [gitsigns.nvim](HTTPS://GitHub.Com/lewis6991/gitsigns.nvim)
+    [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
 -   NeoVim Lsp configuration with
-    [nvim-lspconfig](HTTPS://GitHub.Com/neovim/nvim-lspconfig) and
-    [mason.nvim](HTTPS://GitHub.Com/williamboman/mason.nvim)
--   Autocompletion with [nvim-cmp](HTTPS://GitHub.Com/hrsh7th/nvim-cmp)
+    [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) and
+    [mason.nvim](https://github.com/williamboman/mason.nvim)
+-   Autocompletion with [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 -   File searching, previewing image and text files and more with
-    [telescope.nvim](HTTPS://GitHub.Com/nvim-telescope/telescope.nvim).
+    [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
 -   Syntax highlighting with
-    [nvim-treesitter](HTTPS://GitHub.Com/nvim-treesitter/nvim-treesitter)
+    [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 -   Autoclosing braces and html tags with
-    [nvim-autopairs](HTTPS://GitHub.Com/windwp/nvim-autopairs)
+    [nvim-autopairs](https://github.com/windwp/nvim-autopairs)
 -   Indentlines with
-    [indent-blankline.nvim](HTTPS://GitHub.Com/lukas-reineke/indent-blankline.nvim)
+    [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
 -   Useful snippets with
-    [friendly snippets](HTTPS://GitHub.Com/rafamadriz/friendly-snippets) +
-    [LuaSnip](HTTPS://GitHub.Com/L3MON4D3/LuaSnip).
+    [friendly snippets](https://github.com/rafamadriz/friendly-snippets) +
+    [LuaSnip](https://github.com/L3MON4D3/LuaSnip).
 -   Popup mappings keysheet
-    [whichkey.nvim](HTTPS://GitHub.Com/folke/which-key.nvim)
+    [whichkey.nvim](https://github.com/folke/which-key.nvim)
 
 ## History
 
@@ -166,14 +166,14 @@ A fuzzy file finder, picker, sorter, previewer and much more:
 If you like NvChad and would like to support & appreciate it via donation then
 I'll gladly accept it.
 
-[![kofi](HTTPS://IMG.Shields.IO/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/siduck)
-[![paypal](HTTPS://IMG.Shields.IO/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/siduck13)
-[![buymeacoffee](HTTPS://IMG.Shields.IO/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/siduck)
-[![patreon](HTTPS://IMG.Shields.IO/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/siduck)
+[![kofi](https://IMG.Shields.IO/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/siduck)
+[![paypal](https://IMG.Shields.IO/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/siduck13)
+[![buymeacoffee](https://IMG.Shields.IO/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/siduck)
+[![patreon](https://IMG.Shields.IO/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/siduck)
 
 ## Credits
 
--   [Elianiva](HTTPS://GitHub.Com/elianiva) helped me with NeoVim Lua related
+-   [Elianiva](https://github.com/elianiva) helped me with NeoVim Lua related
     issues many times, NvChad wouldn't exist without his help at all as he
     helped me in my initial neovim journey!
 -   @lorvethe for making the beautiful NvChad logo.
