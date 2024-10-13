@@ -3,8 +3,8 @@
 Fixes Issue # (If it doesn't fix an issue then delete this line)
 
 Plugins Added:
-- [Plugin Name](Plugin Link)
-- [Plugin Name](Plugin Link)
+- [`Plugin Name`](Plugin Link)
+- [`Plugin Name`](Plugin Link)
 
 Reasoning:
 List why the plugin(s) should be added
