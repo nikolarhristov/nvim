@@ -25,11 +25,11 @@
 
 ## Showcase
 
-<img src="HTTPS://nvchad.com/features/nvdash.webp">
-<img src="HTTPS://nvchad.com/banner.webp">
+<img src="https://nvchad.com/features/nvdash.webp">
+<img src="https://nvchad.com/banner.webp">
 
-<img src="HTTPS://nvchad.com/screenshots/onedark.webp">
-<img src="HTTPS://nvchad.com/screenshots/rxyhn1.webp">
+<img src="https://nvchad.com/screenshots/onedark.webp">
+<img src="https://nvchad.com/screenshots/rxyhn1.webp">
 
 ## What is it?
 
@@ -60,27 +60,27 @@
 
 Fast file tree:
 
-<kbd><img src="HTTPS://nvchad.com/features/nvimtree.webp"></kbd>
+<kbd><img src="https://nvchad.com/features/nvimtree.webp"></kbd>
 
 <h3> Telescope-nvim </h3>
 
 A fuzzy file finder, picker, sorter, previewer and much more:
 
-<kbd><img src="HTTPS://nvchad.com/features/telescope.webp"></kbd>
+<kbd><img src="https://nvchad.com/features/telescope.webp"></kbd>
 
 <h3> Our own statusline written from scratch  </h3>
 
 [`NvChad UI`](HTTPS://github.com/NvChad/ui)
 
-<kbd><img src="HTTPS://nvchad.com/features/statuslines.webp"></kbd>
+<kbd><img src="https://nvchad.com/features/statuslines.webp"></kbd>
 
 <h3> Tabufline (our own pertab bufferline) </h3>
 
-<kbd><img src="HTTPS://nvchad.com/features/tabufline.webp"></kbd>
+<kbd><img src="https://nvchad.com/features/tabufline.webp"></kbd>
 - Here's a [`video`](HTTPS://www.youtube.com/watch?v=V_9iJ96U_k8&ab_channel=siduck) that showcases it.
 
 <h3> NvCheatsheet ( our UI Plugin ) </h3>
-<kbd> <img src="HTTPS://nvchad.com/features/nvcheatsheet.webp"/></kbd>
+<kbd> <img src="https://nvchad.com/features/nvcheatsheet.webp"/></kbd>
 
 </details>
 
