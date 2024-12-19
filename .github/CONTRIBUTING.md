@@ -47,7 +47,7 @@ If you wish to contribute to NvChad, you should:
 
 - NvChad won't keep adding more and more features (like adding new plugins most likely) as requested if they feel unneeded and aren't usable by the majority!! If you think the plugin you want to be added is very useful and many NvChaders would find it useful, then such feature's PR is welcomed!
 
-- But adding specific features like adding config for [`wakatime](https://github.com/wakatime/vim-wakatime) etc will be added in this [chad user configs`](https://github.com/NvChad/NvChad/wiki/Chad-user-configs). This lets the user select the things only they want ( adding configs from extra configs ).
+- But adding specific features like adding config for [`wakatime](HTTPS://GitHub.Com/wakatime/vim-wakatime) etc will be added in this [chad user configs`](HTTPS://GitHub.Com/NvChad/NvChad/wiki/Chad-user-configs). This lets the user select the things only they want ( adding configs from extra configs ).
 
 ## How to remove or edit commits from your PR
 > You may have been directed here to remove a commit such as a merge commit: `Merge NvChad/main into devBranch` from your PR
